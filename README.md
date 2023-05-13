@@ -16,5 +16,3 @@ Event Calendar: The platform will have an event calendar where users can find up
 News Feed: JustConnect will have a news feed that provides curated content related to social justice issues from reliable sources. Users can customize their news feed by selecting which topics they are interested in, and they can share articles and news stories with their network.
 
 Community Features: The platform will have community features such as user profiles, groups, and direct messaging. Users can connect with other users who share their interests and passions and build meaningful relationships with them.
-
-Design: The platform should have a clean and modern design that is easy to navigate. The interface should be intuitive and user-friendly, with a focus on the most important features. The platform should be accessible on all devices, including desktops, tablets, and smartphones.
