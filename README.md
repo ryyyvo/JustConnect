@@ -1,11 +1,11 @@
 # slohackies
 slohacks 2023 - paw patrol
 
-# *JustConnect
+**JustConnect**
 
 JustConnect is a web-based platform that connects people who are passionate about social justice issues with opportunities to take action. The platform aims to create a community of activists who can share ideas, collaborate on projects, and make a difference in the world.
 
-*Features:
+*Features*:
 
 Action Hub: The platform will have an action hub where users can find a list of current campaigns and petitions related to social justice issues. Users can browse through the list and choose which ones to support. The platform will also provide resources and information to help users learn more about the issues and take effective action.
 
