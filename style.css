@@ -84,7 +84,7 @@ body {
     margin-top: 85px;
 }
 
-#welcome {
+#rectangle-one #welcome {
 
     position: absolute;
     width: 50%;
@@ -107,7 +107,7 @@ body {
      
 }
 
-#description-one {
+#rectangle-one #description-one {
     position: absolute;
     width: 60%;
     height: 50%;
