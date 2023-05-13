@@ -1,7 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Newsreader&display=swap');
 
 #front-title {
-    background-color: lightblue;
     font-family: 'Newsreader', sans-serif;
     font-size: 30px;
     padding: 50px;
@@ -10,13 +9,7 @@
 }
 
 #description-one {
-    background-color: lightblue;
     font-family: 'Newsreader', sans-serif;
     font-size: 30px;
     padding: 50px;
-}
-
-#test-two{
-    background-color: yellow;
-    padding: 10px;
 }
