@@ -14,11 +14,11 @@ body {
     font-family: 'Inter';
     border: none;
     color: white;
-    text-align: center;
+    text-align: right;
     text-decoration: none;
     font-size: 16px;
     border: none;
-    margin-left: 100px;
+    margin-right: 200px;
 }
 .btn-2 {
     font-family: 'Inter';
@@ -28,8 +28,20 @@ body {
     text-decoration: none;
     font-size: 16px;
     border: none;
-    margin-left: 100px;
+    margin-right: 100px;
 }
+
+#btn-3-bg{
+    box-sizing: border-box;
+
+    position: absolute;
+    right: 20px;
+
+    background: #A8D6A0;
+    border: 1px solid #000000;
+
+}
+
 .btn-3 {
     font-family: 'Inter';
     border: none;
@@ -38,7 +50,8 @@ body {
     text-decoration: none;
     font-size: 16px;
     border: none;
-    margin-left: 100px;
+    margin-right: 50px;
+    border:1px;
 }
 
 #rectangle-one{
