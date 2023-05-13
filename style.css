@@ -173,7 +173,6 @@ body {
     font-family: 'Inter', sans-serif;
     color: white;
     position: absolute;
-    z-index: 1;
     left: 50%;
     top: 30%;
     font-size: 24px;
@@ -200,7 +199,7 @@ body {
     color: white;
     text-align: center;
     position: absolute;
-    left: 65%;
+    left: 17%;
     top: 10%
 }
 
@@ -208,10 +207,10 @@ body {
     font-family: 'Inter', sans-serif;
     color: white;
     position: absolute;
-    left: 50%;
     top: 30%;
+    right: 50%;
     font-size: 24px;
-    margin-right: 2%;
+    margin-left: 2%;
     margin-bottom: 5%;
 }
 
@@ -250,24 +249,58 @@ body {
 }
 
 #rectangle-five {
+    /* Rectangle 5 */
+
+    position: absolute;
+    width: 1066px;
+    height: 399px;
+    left: 15%;
+    top: 300%;
+    text-align: center;
+
+    background: #212339aa;
+    /* mix-blend-mode: color-burn; */
+}
+
+#rectangle-five h2 {
+    font-family: 'Inter', sans-serif;
+    color: white;
+    text-align: center;
+    position: absolute;
+    left: 17%;
+    top: 10%
+}
+
+#rectangle-five p {
+    font-family: 'Inter', sans-serif;
+    color: white;
+    position: absolute;
+    right: 50%;
+    top: 30%;
+    font-size: 24px;
+    margin-left: 2%;
+    margin-bottom: 10%;
+}
+
+#rectangle-six {
 
     position: absolute;
     width: 100%;
     height: 95px;
     left: 0px;
-    top: 300%;
+    top: 365%;
 
     background: #656981;
 
 }
 
-#rectangle-five .btn-1{
+#rectangle-six .btn-1{
     font-family: 'Inter', sans-serif;
     background: #656981;
     color: white;
     border: none;
     position: absolute;
-    top: 50%;
+    top: 40%;
     left: 25%;
 
     font-style: normal;
@@ -281,13 +314,13 @@ body {
     text-align: center;
 }
 
-#rectangle-five .btn-2{
+#rectangle-six .btn-2{
     font-family: 'Inter', sans-serif;
     background: #656981;
     color: white;
     border: none;
     position: absolute;
-    top: 50%;
+    top: 40%;
     left: 40%;
 
     font-style: normal;
@@ -300,13 +333,13 @@ body {
     align-items: center;
     text-align: center;
 }
-#rectangle-five .btn-3{
+#rectangle-six .btn-3{
     font-family: 'Inter', sans-serif;
     background: #656981;
     color: white;
     border: none;
     position: absolute;
-    top: 50%;
+    top: 40%;
     left: 55%;
 
     font-style: normal;
@@ -319,13 +352,13 @@ body {
     align-items: center;
     text-align: center;
 }
-#rectangle-five .btn-4{
+#rectangle-six .btn-4{
     font-family: 'Inter', sans-serif;
     background: #656981;
     color: white;
     border: none;
     position: absolute;
-    top: 50%;
+    top: 40%;
     left: 70%;
 
     font-style: normal;
