@@ -1,5 +1,4 @@
 @import url('https://fonts.googleapis.com/css2?family=Newsreader&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Newsreader&display=swap');
 
 body {
     background: #44475C;
@@ -164,7 +163,7 @@ body {
     width: 1066px;
     height: 399px;
     left: 15%;
-    top: 175%;
+    top: 110%;
     text-align: center;
     border-radius: 25px;
     background: #212339aa;
@@ -198,7 +197,7 @@ body {
     width: 1066px;
     height: 399px;
     left: 15%;
-    top: 235%;
+    top: 170%;
     text-align: center;
     border-radius: 25px;
     background: #212339aa;
@@ -232,7 +231,7 @@ body {
     width: 1066px;
     height: 399px;
     left: 15%;
-    top: 300%;
+    top: 230%;
     text-align: center;
     border-radius: 25px;
     background: #212339aa;
@@ -265,8 +264,7 @@ body {
     width: 100%;
     height: 95px;
     left: 0px;
-    top: 365%;
-
+    top: 290%;
     background: #656981;
 
 }
@@ -347,11 +345,4 @@ body {
     display: flex;
     align-items: center;
     text-align: center;
-}
-
-#calendar {
-    background-color: white;
-    position: absolute;
-    left: 25%;
-    top: 385%;
 }
