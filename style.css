@@ -372,3 +372,10 @@ body {
     align-items: center;
     text-align: center;
 }
+
+#calendar {
+    background-color: white;
+    position: absolute;
+    left: 25%;
+    top: 385%;
+}
