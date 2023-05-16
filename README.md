@@ -1,6 +1,7 @@
 # slohackies
 slohacks 2023 - paw patrol
 https://www.figma.com/file/REimkfTb78fxGac815aRiN/Figma-basics?type=design&node-id=4368%3A321106&t=C3ARyM3jXus0VhzM-1
+https://devpost.com/software/justconnect
 
 **JustConnect**
 
