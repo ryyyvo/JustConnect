@@ -1,0 +1,14 @@
+{
+  "name": "justconnect",
+  "version": "1.0.0",
+  "description": "JustConnect is a web-based platform that connects people who are passionate about social justice issues with opportunities to take action. The platform aims to create a community of activists who can share ideas, collaborate on projects, and make a difference in the world.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "workspaces": [
+    "packages/*"
+]
+}
